@@ -1,7 +1,7 @@
 gyanodaya
 ===============
 
-A aimple academic project using JavaScript and php, mysql.
+A simple academic project using JavaScript and php, mysql.
 
 License
 ----
